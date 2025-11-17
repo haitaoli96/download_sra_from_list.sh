@@ -23,7 +23,7 @@ You can download the WGS data from NCBI in batches based on the accession number
 # Suitable For:
 #  Large-scale SRA data retrieval in genomics research pipelines.
 #
-# Author: Your Name
+# Author:Haitao Li
 # Version: v1.0
 # -------------------------------------------------------------
 
@@ -49,7 +49,7 @@ You can download the WGS data from NCBI in batches based on the accession number
 # 适用于：
 #  群体基因组学、宏基因组、分型研究、大规模 SRA 下载任务
 #
-# 作者：Your Name
+# 作者：Haitao Li
 # 版本：v1.0
 # -------------------------------------------------------------
 
